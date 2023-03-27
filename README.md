@@ -10,11 +10,11 @@ This is a demonstration of game application.
 
 There are a few questions.
 
-Answers are either true or false.
+There are two different answers.
 
 Depend your answer you will get different question.
 
-When you finished all the questions, the game will restart quiz.
+When you finished all the questions, the game will restart.
 
 👍
 
